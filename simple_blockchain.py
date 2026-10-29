@@ -1,5 +1,5 @@
 """
-By Edrian Hadinata
+By Dr. Edrian Hadinata
 """
 
 import hashlib
@@ -31,7 +31,7 @@ class Block:
             self.hash = self.calculate_hash()
         print(f"Block {self.index} mined! Hash: {self.hash}\n")
 
-
+#ini adalah class blockchain
 class Blockchain:
     def __init__(self, difficulty=4):
         self.chain = [self.create_genesis_block()]
