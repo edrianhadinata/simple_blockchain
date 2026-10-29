@@ -1,6 +1,7 @@
 """
 By Dr. Edrian Hadinata
 Rini Julianti mahasiswi yang hadir hari ini 29/Okt/2026
+Universitas Harapan Medan
 """
 
 import hashlib
